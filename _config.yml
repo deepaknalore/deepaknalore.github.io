@@ -90,9 +90,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "http://facebook.com/deepaknalore"
   foursquare       :
-  github           : "academicpages"
+  github           : "deepaknalore"
   google_plus      :
   keybase          :
   instagram        :
@@ -185,10 +185,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _Projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -212,7 +212,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _Research interests
   - scope:
       path: ""
       type: publications
