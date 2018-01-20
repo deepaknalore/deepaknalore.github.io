@@ -185,10 +185,10 @@ collections:
 
 # Defaults
 defaults:
-  # _Projects
+  # _posts
   - scope:
       path: ""
-      type: projects
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -212,7 +212,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Research interests
+  # _publications
   - scope:
       path: ""
       type: publications
